@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DustTGit
+- 👀 I’m interested in data science and data engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects
